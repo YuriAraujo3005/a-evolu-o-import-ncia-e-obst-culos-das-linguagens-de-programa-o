@@ -94,3 +94,8 @@ O desenvolvimento de software enfrenta barreiras técnicas, humanas e de mercado
 * "Faça um quiz de 3 perguntas sobre os marcos históricos das linguagens de programação com base neste caderno."
 
 * "Explique a diferença entre linguagens compiladas e interpretadas usando uma analogia simples."
+
+
+link para o caderno temático do NotebookLM
+
+https://notebook.google.com/notebook/9258c7e0-c9a7-4dd8-8ac0-46afd6754894
